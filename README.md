@@ -1,73 +1,61 @@
 <div align="center">
 
+# 🐍 100 Days of Python
 
-# 🐍 Show Consistency in Python
+<img src="https://img.shields.io/github/last-commit/AnupamXcode/100Days_of_Python?style=for-the-badge" />
+<img src="https://img.shields.io/github/repo-size/AnupamXcode/100Days_of_Python?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/AnupamXcode/100Days_of_Python?style=for-the-badge&logo=python" />
 
-<img src="https://img.shields.io/badge/Challenge-30%20Days-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Logic%20%7C%20Consistency%20%7C%20Problem%20Solving-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python" />
-
-### 🚀 Building Logic • Discipline • Real Skills — One Day at a Time
+### 🚀 Logic • Consistency • Problem Solving
 
 </div>
 
 ---
 
-## ✨ About This Repository
+## ✨ About
 
-This repository documents my journey of learning **Python from scratch** with a strong focus on:
+This repository tracks my journey of learning **Python from scratch** for 100 days.
 
-> 🧠 Logic Building  
-> 🔁 Consistency  
-> 🧩 Problem Solving  
-> 🧹 Clean Coding Habits  
-
-The goal is not just to learn Python syntax, but to develop **deep problem-solving ability** and progress toward **advanced concepts and Machine Learning**.
+- 🧠 Logic Building  
+- 🔁 Daily Consistency  
+- 🧩 Problem Solving  
+- 🧹 Clean Code  
 
 ---
 
-## 🎯 Challenge Details
+## 🎯 Challenge
 
-| Feature | Description |
-|---------|-------------|
-📅 Duration | **30 Days** |
-🧩 Daily Practice | **3–5 Problems** |
-📈 Difficulty | Gradually Increasing |
-🎯 Target | Strong Programming Foundation |
+| Feature | Details |
+|--------|--------|
+| Duration | 100 Days |
+| Daily Goal | 3–5 Problems |
+| Focus | Logic + Coding |
+| End Goal | ML + Advanced Python |
 
 ---
 
-## 🛣️ Learning Roadmap
+## 🛣️ Roadmap
 
-### 🟢 Phase 1 — Foundations
-- Variables & Data Types  
-- Input / Output  
-- Conditions & Loops  
-- Basic Pattern Problems  
+### 🟢 Phase 1 — Basics
+- Variables, Data Types  
+- Conditions, Loops  
 
-### 🔵 Phase 2 — Core Python
-- Lists & Strings  
+### 🔵 Phase 2 — Core
+- Lists, Strings  
 - Functions  
-- Dictionaries & Sets  
-- Intermediate Logic Challenges  
 
-### 🟣 Phase 3 — Advanced Thinking
-- Problem Solving Challenges  
-- Optimization Thinking  
-- Code Structuring  
-- Real-World Style Questions  
+### 🟣 Phase 3 — Advanced
+- Problem Solving  
+- Optimization  
 
-### 🔴 Phase 4 — Beyond Python
-- Object Oriented Programming (OOP)  
-- NumPy, Pandas, Matplotlib  
-- Machine Learning Basics  
+### 🔴 Phase 4 — Beyond
+- OOP  
+- NumPy, Pandas, ML  
 
 ---
 
-## 📂 Repository Structure
+## 📂 Dynamic Structure
 
+<!-- START_STRUCTURE -->
 ```bash
-Day01/
-Day02/
-Day03/
-...
+Loading...
